@@ -1,4 +1,4 @@
-# 🚀 LeetCode Daily — The Final 40 Days of 2025
+# LeetCode Daily — The Final 40 Days of 2025
 
 As 2025 wraps up, I want to close it with intention.  
 So every day for the next 40 days, I’ll solve a LeetCode problem and document my progress here.
