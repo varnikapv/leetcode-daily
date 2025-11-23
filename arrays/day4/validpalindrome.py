@@ -6,7 +6,7 @@ def isPalindrome(self, s):
         s_new = s.replace(" ","")
         s_new = s_new.lower()
         s_new = ''.join(c for c in s_new if c.isalnum())
-        if s_new == s_new[::-1]
+        if s_new == s_new[::-1]:
             return True
         return False
         
