@@ -1,4 +1,3 @@
-
 class Solution {
     public int maxDistinct(String s) {
         int count=0;
@@ -11,6 +10,6 @@ class Solution {
                 count++;
             }
         }
-        return count;
+        return count ;
     }
 }
